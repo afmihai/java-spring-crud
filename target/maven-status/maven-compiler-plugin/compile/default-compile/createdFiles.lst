@@ -1,0 +1,14 @@
+com\mihai\proiect\DemoApplication.class
+com\mihai\proiect\DTO\SupplierDTO.class
+com\mihai\proiect\Model\Product.class
+com\mihai\proiect\Controller\SupplierController.class
+com\mihai\proiect\Model\Supplier.class
+com\mihai\proiect\DTO\ProductDTO.class
+com\mihai\proiect\Services\SupplierService.class
+com\mihai\proiect\Services\SupplierServiceImpl.class
+com\mihai\proiect\DemoApplication$1.class
+com\mihai\proiect\Services\ProductService.class
+com\mihai\proiect\Repositories\ProductRepository.class
+com\mihai\proiect\Controller\ProductController.class
+com\mihai\proiect\Services\ProductServiceImpl.class
+com\mihai\proiect\Repositories\SupplierRepository.class
